@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Lasse Norf / The cool Portfolio"
+title                    : "Lasse Norf / The annoying Portfolio"
 title_separator          : "-"
 name                     : &name "Lasse Norf"
 description              : &description "Lasse Norf's cool portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "I have a very loooooooooooooooooooooooooon Biography as I am older now :/"
+  bio              : "I have a very changing Biography as I am older now :/"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
